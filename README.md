@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Setayesh Farzin</h1>
 <h3 align="center">a junior Python developer passionate about artificial intelligence and machine learning, I am from Italy.</h3>
 
-- 🌱 I’m currently learning **junior Python developer passionate about artificial intelligence and machine learning**
+- 🌱 I’m currently learning ** I am learning Python in the area of artificial intelligence and machine learning.**
 
-- 👯 I’m looking to collaborate on **junior Python developer passionate about artificial intelligence and machine learning**
+- 👯 I’m looking to collaborate on ** python projects **
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/setayeshfarzin/](https://www.linkedin.com/in/setayeshfarzin/)
 
-- 💬 Ask me about **Python,git,sql,ml**
+- 💬 Ask me about **Python, git,SQL,ml**
 
 - 📫 How to reach me **setayehfarzin@gmail.com**
 
