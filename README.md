@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Setayesh Farzin</h1>
 <h3 align="center">a junior Python developer passionate about artificial intelligence and machine learning, I am from Italy.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stysh98&label=Profile%20views&color=0e75b6&style=flat" alt="stysh98" /> </p>
-
 - 🌱 I’m currently learning **Python in the area of artificial intelligence and machine learning**
 
 - 👯 I’m looking to collaborate on **python projects**
