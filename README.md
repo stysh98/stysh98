@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Setayesh Farzin</h1>
-<h3 align="center">a junior Python developer passionate about artificial intelligence and machine learning, I am from Italy.</h3>
+<h3 align="center">a junior Python developer passionate about artificial intelligence and machine learning, I am in Italy.</h3>
 
 - 🌱 I’m currently learning **Python in the area of artificial intelligence and machine learning**
 
